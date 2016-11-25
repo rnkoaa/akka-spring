@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-spring_main.iml" group="akka-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka-spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/akka-spring_test.iml" group="akka-spring" />
+    </modules>
+  </component>
+</project>
